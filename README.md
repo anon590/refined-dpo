@@ -13,7 +13,7 @@ synthetic dataset. rDPO is shown to be effective in a diverse set of
 behavioural alignment tasks, such as improved safety, robustness against
 role-playing, and reduced sycophancy.
 
-## 1. Data Generation
+## 1. Data generation
 
 We use the Mixtral 8x7B model through the Together API at https://www.together.ai, so you will need an API token.
 
@@ -52,3 +52,7 @@ Again, the notebook is located in each of the three experiment folders. It will 
 ## 3. Student model distillation with rDPO
 
 Code will be uploaded soon!
+
+## Sample generations
+
+See the tables inside the [./generations](./generations) directory.
