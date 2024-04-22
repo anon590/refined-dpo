@@ -1,6 +1,6 @@
 # Refined Direct Preference Optimization (rDPO)
 
-Code for the paper "Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs", under review at ICLR 2024 Re-Align Workshop.
+Code for the paper "Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs".
 
 > In this paper, we introduce refined Direct Preference Optimization
 (rDPO), a method for improving the behavioral alignment of Large Language
